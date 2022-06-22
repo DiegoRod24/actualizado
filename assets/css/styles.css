@@ -1203,7 +1203,7 @@ margin-bottom: var(--mb-1);
 .services_icon{
   font-size: 2rem;
 }
-}
+
 
 .services_content{
   padding: 6rem 0 2rem 2.5rem;
@@ -1260,6 +1260,7 @@ width: 450px;
 .footer_copy{
 margin-top: 4.5rem;
 
+}
 }
 /* For large devices */
 @media screen and (min-width: 1024px) {
