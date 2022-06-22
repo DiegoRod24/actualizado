@@ -296,11 +296,11 @@ color: var(--first-color-alt);
 }
 
 .home_blob{
-  width: 200px;
+  width: 250px;
   fill: var(--first-color);
   }
 .home_blob-img{
-  width: 170px;
+  width: 180px;
 }
 
 .home_data{
@@ -740,11 +740,11 @@ margin-bottom: var(--mb-1);
 
 .portfolio_content{
   padding: 0 1.5rem;
-  justify-content: center;
+
 }
 
 .portfolio_img{
-  width: 380px;
+  width: 290px;
   border-radius: .5rem;
   justify-self: center;
 }
@@ -1097,19 +1097,7 @@ margin-bottom: var(--mb-1);
   }
 }
 
-@media screen and (min-width:768px){
-  .container{
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  body{
-    margin:0;
-  }
-
-  .section{
-    padding: 6rem 0 2rem;
-  }
+@media screen and (min-width 768px){
   
 }
 
